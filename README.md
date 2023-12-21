@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Hi, I'm Carson!</h1>
 
-<!--
-**cwcady/cwcady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate student with a love for software and game development! I am currently pursuing my computer science degree at Arizona State Univertsity. Below, you will find a few projects I have worked on!
 
-Here are some ideas to get you started:
+<h3>🎮 Game Development Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Multiplayer Capture the Flag Game (Unity, C#)</b>
+  - [ProjectCTF](https://github.com/)
+
+- <b>Side Scrolling Platformer (GameMaker Studio 2, GML)</b>
+  - [ChonoCrusader](https://github.com/)
+
+- <b>Gomoku - 10x10 Tic-Tac-Toe (GameMaker Studio 2, GML)</b>
+  - [Gomoku](https://github.com/)
+
