@@ -5,7 +5,7 @@ I am a passionate student with a love for software and game development! I am cu
 <h3>🎮 Game Development Projects:</h2>
 
 - <b>Multiplayer Capture the Flag Game (Unity, C#)</b>
-  - [ProjectCTF](https://github.com/)
+  - [ProjectCTF](https://github.com/cwcady/ProjectCTFGame/)
 
 - <b>Side Scrolling Platformer (GameMaker Studio 2, GML)</b>
   - [ChonoCrusader](https://github.com/cwcady/ChronoCrusader/)
