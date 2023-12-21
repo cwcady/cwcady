@@ -11,5 +11,5 @@ I am a passionate student with a love for software and game development! I am cu
   - [ChonoCrusader](https://github.com/cwcady/ChronoCrusader/)
 
 - <b>Gomoku - 10x10 Tic-Tac-Toe (GameMaker Studio 2, GML)</b>
-  - [Gomoku](https://github.com/)
+  - [Gomoku](https://github.com/cwcady/Gomoku/)
 
