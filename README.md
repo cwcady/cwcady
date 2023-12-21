@@ -8,7 +8,7 @@ I am a passionate student with a love for software and game development! I am cu
   - [ProjectCTF](https://github.com/)
 
 - <b>Side Scrolling Platformer (GameMaker Studio 2, GML)</b>
-  - [ChonoCrusader]([https://github.com/](https://github.com/cwcady/ChronoCrusader))
+  - [ChonoCrusader](https://github.com/cwcady/ChronoCrusader)
 
 - <b>Gomoku - 10x10 Tic-Tac-Toe (GameMaker Studio 2, GML)</b>
   - [Gomoku](https://github.com/)
